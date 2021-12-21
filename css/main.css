@@ -153,7 +153,7 @@ section {
 }
 
 .hero {
-    background-image: "/img/hero.jpg";
+    background-image: url('../img/hero.jpg');
     background-position: center;
     height: 400px;
     background-size: cover;
